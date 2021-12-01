@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Douglas
 #### Data Science and BI
-![Data Science and BI](https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_780,h_450/https://blog.academiain1.com.br/wp-content/uploads/2017/09/123809-data-science-descubra-o-que-voce-precisa-saber-sobre-o-assunto-780x450.jpg)
+![Data Science and BI](https://media-exp1.licdn.com/dms/image/C5616AQGwinOugz3VZg/profile-displaybackgroundimage-shrink_350_1400/0/1629269019734?e=1643846400&v=beta&t=H306XKkuG4agIQX6ht3arOl9BzKIaocNkoxCzQz9uyA)
 
 I am a Data Science and Artificial Intelligence Student with knowledge in Python, PHP, Database (MySQL) and Machine Learning.
 
