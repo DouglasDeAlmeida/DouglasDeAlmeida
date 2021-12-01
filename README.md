@@ -16,5 +16,5 @@ I'm looking for an internship in Data Science, where I can develop my technical 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasDeAlmeida&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DouglasDeAlmeida)  
+
 
