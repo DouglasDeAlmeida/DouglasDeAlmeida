@@ -6,7 +6,6 @@ I am a Data Science and Artificial Intelligence Student with knowledge in Python
 
 I am a curious person who likes to solve problems. Learning is part of my daily life and challenges keep me motivated to discover the best solutions.
 
-I'm looking for an internship in Data Science, where I can develop my technical knowledge and grow together with the company and my co-workers.
 
 
 
